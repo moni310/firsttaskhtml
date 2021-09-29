@@ -1,0 +1,30 @@
+.rest_name{
+    font-size: 50px;
+}
+
+.heading{
+    height: 120px;
+    padding-top: 40px;
+}
+
+.top-left {
+    margin-left: 56%;
+    margin-bottom: 10%;
+    margin-top: -130px;
+}
+
+.top-right {
+    margin-right: 52%;
+    margin-bottom: 0%;
+    margin-top: -210px;
+}
+  
+.tag{width: 10%;
+    height:vh;
+    position: relative;
+    
+}
+
+.writing{
+    font-size: 80px;
+}
